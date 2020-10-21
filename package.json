@@ -9,6 +9,9 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "author": {
+    "name": "shailesh"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.1.2",
